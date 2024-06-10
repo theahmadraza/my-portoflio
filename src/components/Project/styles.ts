@@ -72,6 +72,7 @@ export const Container = styled.section`
           gap: 2rem;
           font-size: 1.4rem;
           opacity: 0.6;
+          cursor: pointer;
         }
       }
 
