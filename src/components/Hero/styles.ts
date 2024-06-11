@@ -6,6 +6,22 @@ export const Container = styled.section`
   justify-content: space-between;
   gap: 8rem;
   background: rgba(0,0,0,0);
+.hard-skills{
+    margin-bottom : 5rem;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1.8rem;
+  }
+  .hability{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    img{
+      width: 3.4rem;
+    }
+  }
   .hero-text{
     & > p{
       font-size: 1.8rem;
