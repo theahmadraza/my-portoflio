@@ -7,7 +7,7 @@ import whatsapp from "../../assets/whatsapp.svg";
 export function Footer() {
   return (
     <Container className="footer">
-      <a href="https://vinayaksingh.in" className="logo">
+      <a href="https://mahmadraz.me" className="logo">
         <span>Ahmad</span>
         <span>Raza</span>
       </a>

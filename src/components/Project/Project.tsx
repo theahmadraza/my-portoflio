@@ -39,11 +39,16 @@ export function Project() {
               <h3>Jaydel Event Management System</h3>
               <p>
                 {" "}
-                Developed a serverless voting app using React, AWS Lambda, API
-                Gateway, and DynamoDB, enabling users to view programming
-                languages, cast votes, and access details through an interactive
-                UI, leveraging serverless architecture for scalability and
-                cost-efficiency.{" "}
+                The Jaydel Event Management System is an all-encompassing
+                solution for organizations looking to efficiently manage
+                multiple clients and their events. Users can browse through a
+                comprehensive list of upcoming events created by different
+                clients. Users can easily purchase tickets for events through a
+                user-friendly interface. The system supports various payment
+                methods ensuring a smooth transaction process.By leveraging
+                modern technologies like React, Bootstrap, Redux and .NET, it
+                delivers a robust, scalable, and user-friendly platform that
+                enhances the overall event management experience.
               </p>
             </div>
             <footer>
@@ -90,10 +95,18 @@ export function Project() {
             <div className="body">
               <h3>Claircius Property Portal</h3>
               <p>
-                Developed an interactive chatbot application using Streamlit,
-                OpenAI's GPT-3.5-turbo language model, and PyPDF2 for PDF text
-                extraction, enabling users to ask context-based questions on
-                uploaded PDFs and general queries.
+                Claircius Property Portal is a cutting-edge platform designed to
+                revolutionize the real estate experience by integrating property
+                search with creative design tools. Users can effortlessly search
+                for properties based on location, utilizing an intuitive
+                interface powered by React and Firebase, ensuring fast and
+                reliable access to property listings. The portal stands out with
+                its unique feature that resembles Canva, allowing users to
+                create email templates and design posts with ease. This
+                functionality is powered by FiberJS and HTML Canvas, providing a
+                seamless and interactive design experience. To manage
+                application state efficiently, Redux Toolkit is employed,
+                ensuring a smooth and consistent user experience.
               </p>
             </div>
             <footer>
@@ -135,21 +148,180 @@ export function Project() {
               </div>
             </header>
             <div className="body">
-              <h3>ClassTap</h3>
+              <h3>ClassTap Mobile & Web App</h3>
               <p>
-                Developed a highly accurate credit risk classification model
-                using XGBoost, achieving 100% precision, recall, and F1-scores
-                for predicting loan defaults.Implemented rigorous data
-                preprocessing, feature engineering, and hyperparameter tuning on
-                imbalanced credit risk data, employing ensemble methods,
-                cross-validation, and model interpretation techniques.
+                Classtap is a sophisticated gym management application designed
+                to streamline the process of creating and booking gym classes.
+                It features an intuitive admin panel and a user-friendly mobile
+                app, providing a comprehensive solution for both gym
+                administrators and members. Classtap Gym Management System is an
+                all-in-one solution that enhances the efficiency and convenience
+                of gym class management. By leveraging modern technologies such
+                as React, React Native, Node.js, and AWS, it delivers a robust,
+                scalable, and user-friendly platform that benefits both gym
+                administrators and members. Whether you're managing a bustling
+                gym or looking to keep track of your fitness classes, Classtap
+                makes the process effortless and engaging.
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>XGBoost</li>
-                <li>Pandas</li>
-                <li>Matplotlib</li>
+                <li>React</li>
+                <li>React Native</li>
+                <li>AWS</li>
+                <li>NodeJS</li>
+                <li>Express</li>
+                <li>MySQL</li>
+              </ul>
+            </footer>
+          </div>
+        </ScrollAnimation>
+
+        <ScrollAnimation animateIn="flipInX">
+          <div className="project">
+            <header>
+              <svg
+                width="50"
+                xmlns="http://www.w3.org/2000/svg"
+                role="img"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="#23ce6b"
+                strokeWidth="1"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              >
+                <title>Folder</title>
+                <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
+              </svg>
+              <div className="project-links">
+                <a href="https://ashenda.org" target="\_blank" rel="noreferrer">
+                  <img src={externalLink} alt="Visit site" />
+                </a>
+              </div>
+            </header>
+            <div className="body">
+              <h3>Ashenda Mobile App and Website</h3>
+              <p>
+                Worked closely with the client to understand the cultural
+                significance and details of the Ashenda festival to represent it
+                appropriately on their digital platforms • Researched the
+                traditions, rituals, attire, and historical background of the
+                festival to inform the visual design and content • Designed and
+                developed a responsive, user-friendly website to showcase
+                information about the festival, program schedule, location maps,
+                photos, videos, and more • Overall, it was a rewarding project
+                to help digitally promote this one-of-a-kind cultural festival
+                and make it more discoverable to global audiences through its
+                new online presence.
+              </p>
+            </div>
+            <footer>
+              <ul className="tech-list">
+                <li>React</li>
+                <li>React Native</li>
+                <li>NodeJS</li>
+                <li>Express</li>
+                <li>MongoDB</li>
+              </ul>
+            </footer>
+          </div>
+        </ScrollAnimation>
+        {/* <ScrollAnimation animateIn="flipInX">
+          <div className="project">
+            <header>
+              <svg
+                width="50"
+                xmlns="http://www.w3.org/2000/svg"
+                role="img"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="#23ce6b"
+                strokeWidth="1"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              >
+                <title>Folder</title>
+                <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
+              </svg>
+              <div className="project-links">
+                <a href="https://ashenda.org" target="\_blank" rel="noreferrer">
+                  <img src={externalLink} alt="Visit site" />
+                </a>
+              </div>
+            </header>
+            <div className="body">
+              <h3>Ashenda Mobile App and Website</h3>
+              <p>
+                Worked closely with the client to understand the cultural
+                significance and details of the Ashenda festival to represent it
+                appropriately on their digital platforms • Researched the
+                traditions, rituals, attire, and historical background of the
+                festival to inform the visual design and content • Designed and
+                developed a responsive, user-friendly website to showcase
+                information about the festival, program schedule, location maps,
+                photos, videos, and more • Overall, it was a rewarding project
+                to help digitally promote this one-of-a-kind cultural festival
+                and make it more discoverable to global audiences through its
+                new online presence.
+              </p>
+            </div>
+            <footer>
+              <ul className="tech-list">
+                <li>React</li>
+                <li>React Native</li>
+                <li>NodeJS</li>
+                <li>Express</li>
+                <li>MongoDB</li>
+              </ul>
+            </footer>
+          </div>
+        </ScrollAnimation> */}
+        <ScrollAnimation animateIn="flipInX">
+          <div className="project">
+            <header>
+              <svg
+                width="50"
+                xmlns="http://www.w3.org/2000/svg"
+                role="img"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="#23ce6b"
+                strokeWidth="1"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              >
+                <title>Folder</title>
+                <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
+              </svg>
+              <div className="project-links">
+                <a href="https://ashenda.org" target="\_blank" rel="noreferrer">
+                  <img src={externalLink} alt="Visit site" />
+                </a>
+              </div>
+            </header>
+            <div className="body">
+              <h3>OgreSpace</h3>
+              <p>
+                Developed the user interface using React UI, and Modern
+                Javascript, providing a visually appealing and user-friendly
+                experience for property buying, selling, and renting. •
+                Implemented advanced search and filter functionalities,
+                empowering users to find properties that meet their specific
+                requirements efficiently. • Created a feature to display
+                detailed property information, including images, location,
+                price, and more, ensuring users make informed decisions. •
+                Developed a system for users to save preferred listings,
+                allowing them to revisit and manage their choices conveniently.
+              </p>
+            </div>
+            <footer>
+              <ul className="tech-list">
+                <li>Typescript</li>
+                <li>React Native</li>
+                <li>NodeJS</li>
+                <li>Express</li>
+                <li>MongoDB</li>
               </ul>
             </footer>
           </div>
