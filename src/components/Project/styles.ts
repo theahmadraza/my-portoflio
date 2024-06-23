@@ -10,12 +10,10 @@ export const Container = styled.section`
     margin-bottom: 3rem;
   }
   .projects{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: auto;
+    display:grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
     gap: 2rem;
     padding: 1rem;
-    overflow: hidden;
 
     .project{
       padding: 2rem 1.8rem;
@@ -81,13 +79,12 @@ export const Container = styled.section`
 
   @media (max-width: 960px){
     .projects{
-      grid-template-columns: 1fr 1fr;
+    grid-template-columns: repeat(2, 1fr);
     }
   }
 
   @media (max-width: 740px){
     .projects{
-      grid-template-columns: 1fr;
-    }
+grid-template-columns: repeat(1, 1fr);    }
   }
 `

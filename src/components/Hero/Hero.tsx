@@ -2,7 +2,6 @@ import { BrowserRouter } from "react-router-dom";
 import { Container } from "./styles";
 import ScrollAnimation from "react-animate-on-scroll";
 import Illustration from "../../assets/illustration.svg";
-import { NavHashLink } from "react-router-hash-link";
 import linkedin from "../../assets/linkedin.svg";
 import githubIcon from "../../assets/github.svg";
 import whatsapp from "../../assets/whatsapp.svg";
@@ -35,9 +34,6 @@ export function Hero() {
           </ScrollAnimation>
           <ScrollAnimation animateIn="fadeInUp" delay={0.8 * 1000}>
             <BrowserRouter>
-              <NavHashLink smooth to="#contact" className="button">
-                Contact
-              </NavHashLink>
               <a
                 href="https://www.upwork.com/freelancers/~01d2d130c67cf34c53"
                 target="_blank"
@@ -80,7 +76,7 @@ export function Hero() {
           </ScrollAnimation>
         </div>
       </Container>
-      <div className="w-full my-12">
+      <div className="w-full">
         <ScrollAnimation animateIn="fadeInLeft" delay={0.4 * 1000}>
           <h3>I've worked with these technologies:</h3>
         </ScrollAnimation>

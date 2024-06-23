@@ -3,8 +3,8 @@ import { createGlobalStyle } from "styled-components";
 export const GlobalStyle = createGlobalStyle`
   :root{
     --pink: #E31F71;
-    --black: #212121;
-    --green: #23ce6b;
+    --black: #11272B;
+    --green: #00A79D;
     --blue: #016fb9;
     scroll-padding-top: 10rem;
 

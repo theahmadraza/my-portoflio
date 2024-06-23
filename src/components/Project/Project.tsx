@@ -16,7 +16,7 @@ export function Project() {
                 role="img"
                 viewBox="0 0 24 24"
                 fill="none"
-                stroke="#23ce6b"
+                stroke="#00A79D"
                 strokeWidth="1"
                 strokeLinecap="round"
                 strokeLinejoin="round"
@@ -74,7 +74,7 @@ export function Project() {
                 role="img"
                 viewBox="0 0 24 24"
                 fill="none"
-                stroke="#23ce6b "
+                stroke="#00A79D "
                 strokeWidth="1"
                 strokeLinecap="round"
                 strokeLinejoin="round"
@@ -129,7 +129,7 @@ export function Project() {
                 role="img"
                 viewBox="0 0 24 24"
                 fill="none"
-                stroke="#23ce6b"
+                stroke="#00A79D"
                 strokeWidth="1"
                 strokeLinecap="round"
                 strokeLinejoin="round"
@@ -186,7 +186,7 @@ export function Project() {
                 role="img"
                 viewBox="0 0 24 24"
                 fill="none"
-                stroke="#23ce6b"
+                stroke="#00A79D"
                 strokeWidth="1"
                 strokeLinecap="round"
                 strokeLinejoin="round"
@@ -236,7 +236,7 @@ export function Project() {
                 role="img"
                 viewBox="0 0 24 24"
                 fill="none"
-                stroke="#23ce6b"
+                stroke="#00A79D"
                 strokeWidth="1"
                 strokeLinecap="round"
                 strokeLinejoin="round"
@@ -286,7 +286,7 @@ export function Project() {
                 role="img"
                 viewBox="0 0 24 24"
                 fill="none"
-                stroke="#23ce6b"
+                stroke="#00A79D"
                 strokeWidth="1"
                 strokeLinecap="round"
                 strokeLinejoin="round"
@@ -336,7 +336,7 @@ export function Project() {
                 role="img"
                 viewBox="0 0 24 24"
                 fill="none"
-                stroke="#23ce6b "
+                stroke="#00A79D "
                 stroke-width="1"
                 stroke-linecap="round"
                 stroke-linejoin="round"
@@ -394,7 +394,7 @@ export function Project() {
                 role="img"
                 viewBox="0 0 24 24"
                 fill="none"
-                stroke="#23ce6b"
+                stroke="#00A79D"
                 strokeWidth="1"
                 strokeLinecap="round"
                 strokeLinejoin="round"
@@ -449,7 +449,7 @@ export function Project() {
                 role="img"
                 viewBox="0 0 24 24"
                 fill="none"
-                stroke="#23ce6b "
+                stroke="#00A79D "
                 stroke-width="1"
                 stroke-linecap="round"
                 stroke-linejoin="round"
@@ -490,7 +490,7 @@ export function Project() {
         {/* <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
-              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#00A79D " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
                 <a href="https://justmedicalbooks.com/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
@@ -515,7 +515,7 @@ export function Project() {
         {/* <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
-              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#00A79D " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
                 <a href="https://drrohitdamor.com" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
@@ -539,7 +539,7 @@ export function Project() {
         {/* <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
-              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#00A79D " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
                 <a href="https://mitulindustries.com/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
@@ -564,7 +564,7 @@ export function Project() {
         <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
-              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#00A79D " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
                 <a href="https://mayatmaj.com/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
@@ -588,7 +588,7 @@ export function Project() {
         {/* <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
-              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#00A79D " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
                 <a href="https://www.smartcornersproperties.com/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
@@ -612,7 +612,7 @@ export function Project() {
         {/* <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
-              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#00A79D " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
                 <a href="https://madewithluv.in/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
